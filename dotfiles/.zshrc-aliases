@@ -1,0 +1,2 @@
+  alias ls="/usr/bin/lsd -ll"
+  alias wireguard='sudo resolvconf -u; sudo wg-quick up wg0'
