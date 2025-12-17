@@ -1,0 +1,4 @@
+startx
+
+[[ -f ~/.zshrc ]] && . ~/.zshrc
+#
