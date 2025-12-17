@@ -1,0 +1,14 @@
+font-family = HackNerdFont
+font-size = 14
+background-opacity = 0.5
+keybind = ctrl+shift+e=new_split:right
+keybind = ctrl+shift+o=new_split:down
+keybind = ctrl+shift+w=close_surface
+split-divider-color = 114
+bold-is-bright = true
+window-inherit-working-directory = false
+focus-follows-mouse = true
+theme = Arthur
+cursor-invert-fg-bg = true
+mouse-scroll-multiplier = 1.5
+window-decoration = false
